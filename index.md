@@ -39,13 +39,13 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 ```
 
 ## Favorite Books
-* Walden by Henry David Thoreau
-* Incerto by Nassim Nicholas Taleb
-* The Autobiography of Benjamin Franklin
-* Benjamin Franklin by Walter Isaacson
-* Leonardo Da Vinci by Walter Isaacson
-* The Dream Machine by M. Mitchell Waldrop
-* Vagabonding by Rolf Potts
+* __Walden__ by *Henry David Thoreau*
+* __Incerto__ by *Nassim Nicholas Taleb*
+* __The Autobiography of Benjamin Franklin__
+* __Benjamin Franklin__ by _Walter Isaacson_
+* __Leonardo Da Vinci__ by _Walter Isaacson_
+* __The Dream Machine__ by _M. Mitchell Waldrop_
+* __Vagabonding__ by _Rolf Potts_
 
 ## Goals for this quarter
 - [ ] Learn about the software development lifecycle.
