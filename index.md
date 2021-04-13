@@ -9,7 +9,7 @@ I am a cognitive science student at UC San Diego interested in human computer in
 # Table of Contents
 1. [Code Snippet](#code-cnippet)
 2. [Favorite Books](#favorite-books)
-3. [Bucket List](#bucket-list)
+3. [Bucket List](#goals-for-this-quarter)
 
 
 ## Code Snippet
